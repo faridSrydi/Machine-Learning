@@ -1,3 +1,4 @@
+faridlib
 scikit-learn
 numpy
 pandas
