@@ -1,8 +1,8 @@
 <div align="center">
 
 # 🤖 Machine Learning Labs
-**Kumpulan Praktikum dan Implementasi Machine Learning**  
-*Mulai dari Regresi Linear, Klasifikasi, Q-Learning hingga Deep Q-Network (DQN)*
+**Code Implementasi Machine Learning**  
+*Regresi Linear, Klasifikasi, Q-Learning &  Deep Q-Network (DQN)*
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)](#)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](#)
@@ -19,7 +19,6 @@ Repositori ini adalah sebuah **Workspace Universal** untuk menyimpan dan mengeks
 
 ## 📦 Pustaka (Library) Utama
 
-Proyek ini dibangun menggunakan pustaka Machine Learning & Data Science terbaik di industri:
 - **`scikit-learn`** — Algoritma inti ML (Regresi, Klasifikasi, PCA, Random Forest).
 - **`tensorflow`** — Operasi berbasis Deep Learning seperti DQN (Deep Q-Network).
 - **`numpy`** — Komputasi matriks dan operasi matematika.
@@ -33,7 +32,7 @@ Proyek ini dibangun menggunakan pustaka Machine Learning & Data Science terbaik 
 ### 1. Unduh Proyek (Clone)
 Langkah pertama, unduh sistem ke pc/komputer lokal Anda lalu masuk ke direktorinya via terminal:
 ```bash
-git clone https://github.com/USERNAME/NAMA_REPOSITORI_ANDA.git
+git clone https://github.com/faridSrydi/Machine-Learning.git
 cd "Machine Learning"
 ```
 
@@ -52,8 +51,6 @@ Jalankan file utama untuk membuka terminal CLI interaktif:
 ```bash
 python main.py
 ```
-*Aplikasi akan otomatis memindai seluruh folder berawalan `lab-` dan memasukkannya ke dalam daftar antarmuka secara *real-time!*
-
 ---
 
 ## 🚀 Fitur Unggulan: "Auto Create New Lab"
@@ -70,9 +67,7 @@ Workspace ini dilengkapi dengan fitur cerdas pembuat Lab otomatis guna meminimal
 
 ---
 
-## 📊 Hasil Output Visualisasi
-
-Berikut contoh hasil plot dan kalkulasi data visual (silakan ganti link gambar sesuai dengan jalur file gambar Anda nanti):
+## 📊 Hasil Output
 
 <br>
 
@@ -128,7 +123,7 @@ Berikut contoh hasil plot dan kalkulasi data visual (silakan ganti link gambar s
     </tr>
   </table>
   <br>
-  <em>Tabel: Panel Dashboard visualisasi Output Data Model. (Klik gambar untuk zoom/Buka penuh)</em>
+  <em>Klik gambar untuk zoom/Buka penuh</em>
 </div>
 
 ---
@@ -160,5 +155,4 @@ Berikut contoh hasil plot dan kalkulasi data visual (silakan ganti link gambar s
   <br><br><br>
 
   <h3>© 2026 Farid Suryadi. All Rights Reserved.</h3>
-  <p><i>Dibuat dan dirancang khusus untuk pembelajaran sistem pakar dan Machine Learning.</i></p>
 </div>
