@@ -2,7 +2,7 @@
 
 # 🤖 Machine Learning Labs
 **Code Implementasi Machine Learning**  
-*Regresi Linear, Klasifikasi, Q-Learning &  Deep Q-Network (DQN)*
+*Regresi Linear, Klasifikasi, Q-Learning & Deep Q-Network (DQN)*
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)](#)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](#)
@@ -15,59 +15,61 @@
 ---
 
 ## 💡 Tentang Proyek
-Repositori ini adalah sebuah **Workspace Universal** untuk menyimpan dan mengeksekusi berbagai macam script *Machine Learning*, yang tersusun sistematis dalam setiap "Lab". Diciptakan dengan navigasi CLI (Command-Line Interface) yang interaktif, kamu cukup menggunakan satu perintah saja untuk menjelajahi semua tugas yang ada.
+Repository ini berisi kumpulan code Machine Learning yang disusun dalam format **Lab** agar mudah dipelajari dan dijalankan.  
+Setiap lab memiliki struktur folder yang rapi, serta dapat diakses melalui **CLI interaktif**.
 
-## 📦 Pustaka (Library) Utama
+## 📦 Library Utama
 
-- **`scikit-learn`** — Algoritma inti ML (Regresi, Klasifikasi, PCA, Random Forest).
-- **`tensorflow`** — Operasi berbasis Deep Learning seperti DQN (Deep Q-Network).
-- **`numpy`** — Komputasi matriks dan operasi matematika.
-- **`pandas`** — Manipulasi, kebersihan struktur, dan pemrosesan dataset.
+Proyek ini menggunakan beberapa library umum dalam Machine Learning dan Data Science:
+- **`scikit-learn`** — Model ML klasik seperti regresi, klasifikasi, PCA, Random Forest.
+- **`tensorflow`** — Implementasi deep learning dan DQN.
+- **`numpy`** — Operasi numerik dan matriks.
+- **`pandas`** — Pengolahan dan analisis dataset.
 - **`matplotlib`** — Visualisasi data tingkat tinggi dan analisis diagram fitur.
 
 ---
 
-## ⚡ Tata Cara Penggunaan
+## ⚡ Cara Menjalankan
 
-### 1. Unduh Proyek (Clone)
-Langkah pertama, unduh sistem ke pc/komputer lokal Anda lalu masuk ke direktorinya via terminal:
+### 1. Clone Repository
+
 ```bash
-git clone https://github.com/faridSrydi/Machine-Learning.git
+git clone https://github.com/USERNAME/NAMA_REPOSITORI_ANDA.git
 cd "Machine Learning"
 ```
 
 ### 2. Persiapan Environment
-Direkomendasikan menjalankan *virtual environment* bawaan yang ada di folder `.venv`.
+Disarankan menggunakan virtual environment:
 ```bash
-# Untuk Windows:
+
+# Windows:
 .venv\Scripts\activate
 
 # Install dependency:
 pip install -r requirements.txt
 ```
 
-### 3. Menjalankan Aplikasi
-Jalankan file utama untuk membuka terminal CLI interaktif:
+### 3. Jalankan Program
 ```bash
 python main.py
 ```
+
+*Program akan membaca semua folder dengan format lab-xx dan menampilkannya otomatis di menu.*
+
 ---
 
-## 🚀 Fitur Unggulan: "Auto Create New Lab"
+## 🚀 Fitur : "Auto Create New Lab"
 
-Workspace ini dilengkapi dengan fitur cerdas pembuat Lab otomatis guna meminimalkan pengulangan membuat folder/arsitektur internal:
+Tersedia fitur pembuatan lab otomatis untuk mempercepat pembuatan struktur folder:
 
-1. Pada halaman awal, pilih opsi **`[c] Create New Lab`**.
-2. Anda akan diminta memasukkan nomor. Contoh: `3` atau `03`.
-3. Program akan **secara otomatis**:
-   - Mendaftarkan lab baru (`lab-03`).
-   - Membuat folder `scripts` di dalamnya (`lab-03/scripts/`).
-   - Memasukkannya langsung ke dalam Menu Utama *tanpa perlu restart*.
-4. Anda cukup fokus meletakkan file `.py` di dalam folder `scripts` tersebut, dan sistem akan meng-ekstrak menjadi sub-menu yang siap dijalankan!
-
+1. Pilih menu **`[c] Create New Lab`**
+2. Masukkan nomor lab (contoh: `3` atau `03`)
+3. Sistem akan membuat folder lab baru beserta struktur scripts/ secara otomatis.
+4. Anda cukup fokus meletakkan file `.py` di dalam folder `scripts` tersebut, dan sistem akan meng-ekstrak menjadi sub-menu yang siap dijalankan
 ---
 
 ## 📊 Hasil Output
+
 
 <br>
 
@@ -75,55 +77,55 @@ Workspace ini dilengkapi dengan fitur cerdas pembuat Lab otomatis guna meminimal
   <table border="1" cellpadding="10" bordercolor="#ccc" align="center" style="border-collapse: collapse;">
     <tr align="center">
       <td>
-        <a href="output/[LAB-01]%20Customer%20Clustering.png" target="_blank"><img src="output/[LAB-01] Customer Clustering.png" width="280" alt="Customer Clustering" /></a>
+        <a href="output/%5BLAB-01%5D%20Customer%20Clustering.png" target="_blank"><img src="output/%5BLAB-01%5D%20Customer%20Clustering.png" width="280" alt="Customer Clustering" /></a>
         <br><code>[LAB-01] Customer Clustering.png</code>
       </td>
       <td>
-        <a href="output/[LAB-01]%20Dqn%20Tensorflow.png" target="_blank"><img src="output/[LAB-01] Dqn Tensorflow.png" width="280" alt="Dqn Tensorflow" /></a>
+        <a href="output/%5BLAB-01%5D%20Dqn%20Tensorflow.png" target="_blank"><img src="output/%5BLAB-01%5D%20Dqn%20Tensorflow.png" width="280" alt="Dqn Tensorflow" /></a>
         <br><code>[LAB-01] Dqn Tensorflow.png</code>
       </td>
       <td>
-        <a href="output/[LAB-01]%20House%20Price.png" target="_blank"><img src="output/[LAB-01] House Price.png" width="280" alt="House Price" /></a>
+        <a href="output/%5BLAB-01%5D%20House%20Price.png" target="_blank"><img src="output/%5BLAB-01%5D%20House%20Price.png" width="280" alt="House Price" /></a>
         <br><code>[LAB-01] House Price.png</code>
       </td>
     </tr>
     <tr align="center">
       <td>
-        <a href="output/[LAB-01]%20Pca%20Iris.png" target="_blank"><img src="output/[LAB-01] Pca Iris.png" width="280" alt="Pca Iris" /></a>
+        <a href="output/%5BLAB-01%5D%20Pca%20Iris.png" target="_blank"><img src="output/%5BLAB-01%5D%20Pca%20Iris.png" width="280" alt="Pca Iris" /></a>
         <br><code>[LAB-01] Pca Iris.png</code>
       </td>
       <td>
-        <a href="output/[LAB-01]%20Q%20Learning%20Maze.png" target="_blank"><img src="output/[LAB-01] Q Learning Maze.png" width="280" alt="Q Learning Maze" /></a>
+        <a href="output/%5BLAB-01%5D%20Q%20Learning%20Maze.png" target="_blank"><img src="output/%5BLAB-01%5D%20Q%20Learning%20Maze.png" width="280" alt="Q Learning Maze" /></a>
         <br><code>[LAB-01] Q Learning Maze.png</code>
       </td>
       <td>
-        <a href="output/[LAB-01]%20Spam%20Email.png" target="_blank"><img src="output/[LAB-01] Spam Email.png" width="280" alt="Spam Email" /></a>
+        <a href="output/%5BLAB-01%5D%20Spam%20Email.png" target="_blank"><img src="output/%5BLAB-01%5D%20Spam%20Email.png" width="280" alt="Spam Email" /></a>
         <br><code>[LAB-01] Spam Email.png</code>
       </td>
     </tr>
     <tr align="center">
       <td>
-        <a href="output/[LAB-02]%20House%20Price%20Prediction%20RF.png" target="_blank"><img src="output/[LAB-02] House Price Prediction RF.png" width="280" alt="House Price Prediction RF" /></a>
+        <a href="output/%5BLAB-02%5D%20House%20Price%20Prediction%20RF.png" target="_blank"><img src="output/%5BLAB-02%5D%20House%20Price%20Prediction%20RF.png" width="280" alt="House Price Prediction RF" /></a>
         <br><code>[LAB-02] House Price Prediction RF.png</code>
       </td>
       <td>
-        <a href="output/[LAB-02]%20Model%20Evaluation.png" target="_blank"><img src="output/[LAB-02] Model Evaluation.png" width="280" alt="Model Evaluation" /></a>
+        <a href="output/%5BLAB-02%5D%20Model%20Evaluation.png" target="_blank"><img src="output/%5BLAB-02%5D%20Model%20Evaluation.png" width="280" alt="Model Evaluation" /></a>
         <br><code>[LAB-02] Model Evaluation.png</code>
       </td>
       <td>
-        <a href="output/[LAB-02]%20Multivariate%20Regression.png" target="_blank"><img src="output/[LAB-02] Multivariate Regression.png" width="280" alt="Multivariate Regression" /></a>
+        <a href="output/%5BLAB-02%5D%20Multivariate%20Regression.png" target="_blank"><img src="output/%5BLAB-02%5D%20Multivariate%20Regression.png" width="280" alt="Multivariate Regression" /></a>
         <br><code>[LAB-02] Multivariate Regression.png</code>
       </td>
     </tr>
     <tr align="center">
       <td colspan="3">
-        <a href="output/[LAB-02]%20Simple%20Linear%20Regression.png" target="_blank"><img src="output/[LAB-02] Simple Linear Regression.png" width="280" alt="Simple Linear Regression" /></a>
+        <a href="output/%5BLAB-02%5D%20Simple%20Linear%20Regression.png" target="_blank"><img src="output/%5BLAB-02%5D%20Simple%20Linear%20Regression.png" width="280" alt="Simple Linear Regression" /></a>
         <br><code>[LAB-02] Simple Linear Regression.png</code>
       </td>
     </tr>
   </table>
   <br>
-  <em>Klik gambar untuk zoom/Buka penuh</em>
+  <em>Klik gambar untuk melihat hasil secara penuh</em>
 </div>
 
 ---
