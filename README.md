@@ -8,7 +8,6 @@
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](#)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](#)
 
-<!-- Ganti link gif di bawah dengan GIF rekaman layar aplikasimu -->
 <img src="output/ML.png" width="600" alt="Machine Learning"/>
 
 </div>
