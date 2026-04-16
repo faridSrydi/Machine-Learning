@@ -34,7 +34,7 @@ Proyek ini menggunakan beberapa library umum dalam Machine Learning dan Data Sci
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/USERNAME/NAMA_REPOSITORI_ANDA.git
+git clone https://github.com/faridSrydi/Machine-Learning.git
 cd "Machine Learning"
 ```
 
