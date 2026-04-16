@@ -145,12 +145,12 @@ Berikut contoh hasil plot dan kalkulasi data visual (silakan ganti link gambar s
   <p><b>✨ Let's connect and build something awesome together! ✨</b></p>
   
   <p>
-      <a href="https://t.me/greyvbss" target="_blank">
-          <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+      <a href="https://github.com/faridSrydi" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub--faridSrydi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
       </a>
-      &nbsp;
+      &nbsp;&nbsp;
       <a href="https://www.instagram.com/faridsrydi" target="_blank">
-          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+          <img src="https://img.shields.io/badge/Instagram--@faridsrydi-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
       </a>
   </p>
 
