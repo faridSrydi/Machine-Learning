@@ -136,7 +136,30 @@ Berikut contoh hasil plot dan kalkulasi data visual (silakan ganti link gambar s
 
 <br>
 
+<br>
+<hr>
+
 <div align="center">
+  <h2>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" alt="Hi"> I'm Farid Suryadi</h2>
+  
+  <p><b>✨ Let's connect and build something awesome together! ✨</b></p>
+  
+  <p>
+      <a href="https://t.me/greyvbss" target="_blank">
+          <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+      </a>
+      &nbsp;
+      <a href="https://www.instagram.com/faridsrydi" target="_blank">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+      </a>
+  </p>
+
+  <br>
+  
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
+
+  <br><br><br>
+
   <h3>© 2026 Farid Suryadi. All Rights Reserved.</h3>
-  <p>Dibuat dan dirancang khusus untuk pembelajaran sistem pakar dan Machine Learning.</p>
+  <p><i>Dibuat dan dirancang khusus untuk pembelajaran sistem pakar dan Machine Learning.</i></p>
 </div>
