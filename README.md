@@ -127,7 +127,6 @@ Tersedia fitur pembuatan lab otomatis untuk mempercepat pembuatan struktur folde
   <br>
   <em>Klik gambar untuk melihat hasil secara penuh</em>
 </div>
-
 ---
 
 <br>
