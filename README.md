@@ -35,7 +35,7 @@ Proyek ini menggunakan beberapa library umum dalam Machine Learning dan Data Sci
 
 ```bash
 git clone https://github.com/faridSrydi/Machine-Learning.git
-cd "Machine Learning"
+cd Machine-Learning
 ```
 
 ### 2. Persiapan Environment
